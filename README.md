@@ -1,5 +1,5 @@
 Yeasaleh 
-🚀 Passionate Software Developer | JavaScript | React.js | GraphQL | Material-UI | AWS 🎨
+🚀 Software Developer | JavaScript | React.js | GraphQL | Material-UI | AWS 🎨
 
 💡 Crafting Flawless User Experiences | Elevating UI/UX Standards 
 🌟 JavaScript | TypeScript | React.js | GraphQL | Material-UI | Bootstrap 
