@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Yeasaleh 👋</h1>
   <h3>Full-Stack Developer</h3>
-  <p>📍 Dhaka, Bangladesh &nbsp; | &nbsp; 📱 +8801735782467 &nbsp; | &nbsp; ✉️ <a href="mailto:yeasalehofficial2002@gmail.com">yeasalehofficial2002@gmail.com</a></p>
+  <p>📍 Dhaka, Bangladesh &nbsp; | &nbsp; 📱 +8801735782467 &nbsp; | &nbsp; ✉️ <a href="mailto:yeasaleh.contact@gmail.com">yeasaleh.contact@gmail.com</a></p>
   <p>
     <a href="https://linkedin.com/in/yea-saleh"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/yeasaleh2002"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
