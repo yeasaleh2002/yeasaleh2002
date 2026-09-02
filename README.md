@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Yeasaleh 👋</h1>
-  <h3>Full-Stack Developer</h3>
+  <h3>Software Engineer</h3>
   <p>📍 Dhaka, Bangladesh &nbsp; | &nbsp; 📱 +8801735782467 &nbsp; | &nbsp; ✉️ <a href="mailto:yeasaleh.contact@gmail.com">yeasaleh.contact@gmail.com</a></p>
   <p>
     <a href="https://linkedin.com/in/yea-saleh"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,33 +13,19 @@
 
 ### 👨‍💻 Professional Summary
 
-Full-Stack Developer specializing in architecting scalable end-to-end web applications using React.js, Node.js, and TypeScript. Experienced in designing robust REST and GraphQL APIs, managing relational databases, and building responsive, high-performance user interfaces. Adept at streamlining cross-platform workflows through secure API connections and targeted Make.com automations, delivering maintainable solutions that optimize both system performance and user experience.
+Software Developer specializing in architecting scalable web applications using Next.js, Node.js, and TypeScript. Experienced in designing robust REST and GraphQL APIs, maintaining system architecture, managing relational databases, and building high-performance user interfaces. Adept at developing custom Node.js packages, integrating artificial intelligence tools, and streamlining cross-platform workflows through targeted automations. 
 
 ---
 
 ### 🛠️ Technical Skills
 
-* **Front-End:** `JavaScript` `TypeScript` `React.js` `Next.js` `Redux Toolkit` `Tailwind CSS` `Vitest` `Framer Motion` `GSAP` `React Spring` `Lottie-web` `Mixpanel`
+* **Front-End:** `JavaScript` `TypeScript` `React.js` `Next.js` `Redux Toolkit` `Zustand` `Tailwind CSS` `Vitest` `Framer Motion` `GSAP` `React Spring` `Lottie-web` `Mixpanel`
 * **Back-End:** `Node.js` `Express.js` `SQL` `Postgres` `Prisma` `MySQL` `Rest API` `AWS` `GraphQL` `Supabase`
 * **Tools:** `AI Tools` `Firebase` `Vite` `Webpack` `Babel` `JWT` `Jenkins` `Jira` `Trello` `Bitbucket` `Zoho Desk` `Firecrawl` `Getstream.io` `Mailerlite` `Stripe` `LemonSqueezy` `Paytm` `Weweb` `Make.com` `Zapier`
 
 ---
 
 ### 💼 Professional Experience
-
-> **Full-Stack Developer (Contractual)** @ *Define Tech LLC*
-> <br> 📍 *Oklahoma, USA (Remote)* | 📅 *December 2025 – February 2026*
-> * Engineered a custom screen-scaling utility for fluid UI scaling across 4K/HD displays, eliminating redundant CSS logic and layout shifts.
-> * Programmed 60fps interaction-driven animations using GSAP and Framer Motion, streamlining the client-side rendering pipeline to prevent scroll jitter.
-> * Refactored complex motion logic into modular React hooks, significantly reducing timeline complexity and improving overall maintainability.
-> * Configured Mixpanel for analytics and orchestrated Zapier webhooks to synchronize client interactions dynamically with third-party CRMs.
-
-> **Full-Stack Developer (Contractual)** @ *ConvertClicks.io*
-> <br> 📍 *Toronto, Canada (Remote)* | 📅 *August 2025 – October 2025*
-> <br> *Note: Transitioned to this role via a direct client referral from Manaknight Digital.*
-> * Established secure server-side infrastructure using Node.js and Express, utilizing Supabase for reliable data hydration and accelerating API response times by 25%.
-> * Automated cross-platform operations via targeted endpoints, Make.com, and WeWeb, successfully reducing manual data-entry workloads by 40%.
-
 > **Web Developer** @ *Manaknight Digital*
 > <br> 📍 *Toronto, Canada (Remote)* | 📅 *December 2023 – July 2025*
 > * Spearheaded full-stack feature development for enterprise React.js applications, building modular component libraries that reduced new feature deployment time by 30%.
