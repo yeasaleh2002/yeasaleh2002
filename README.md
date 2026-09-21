@@ -76,7 +76,7 @@ I'm a full-stack engineer who likes owning a feature from the database all the w
 > * Mapping text to specific demographic markers so the model understands local context and slang, rather than forcing a single global standard on every phrase.
 > * Using ATOMIC 2020 to create an adaptive cultural layer that helps the AI tell the difference between friendly local banter and actual cross-cultural insults.
 > * Setting up Explainable AI (XAI) that grounds model decisions in real human terms: the speaker's true intent (xIntent), the impact on the listener (xReact), and what it says about the speaker (xAttr).
-> * Hit an 84.5% Macro-F1 score by evaluating demographic groups independently and treating human disagreement in data as a useful signal rather than just throwing it out as noise.
+> * Targeting an expected 84.5% Macro-F1 score by evaluating demographic groups independently and treating human disagreement in data as a useful signal rather than just throwing it out as noise.
 
 ---
 
